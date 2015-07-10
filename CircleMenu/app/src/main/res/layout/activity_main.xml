@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context="com.example.zhouwn.circlemenu.MainActivity">
+
+    <com.example.zhouwn.circlemenu.CircleMenuView
+    android:id="@+id/circleMenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+    <!--<com.example.zhouwn.circlemenu.CircleMenuLayout-->
+        <!--android:id="@+id/circleMenuLayout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+</RelativeLayout>

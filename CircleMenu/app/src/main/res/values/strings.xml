@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CircleMenu</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title1">吃吃冲刺1</string>
+    <string name="title2">吃吃冲刺2</string>
+    <string name="title3">吃吃冲刺3</string>
+    <string name="title4">吃吃冲刺4</string>
+    <string name="title5">吃吃冲刺5</string>
+    <string name="title6">吃吃冲刺6</string>
+    <string name="title7">吃吃冲刺7</string>
+    <string name="title8">吃吃冲刺8</string>
+    <string name="title9">吃吃冲刺9</string>
+    <string name="title10">吃吃冲刺10</string>
+    <string name="title11">吃吃冲刺11</string>
+    <string name="title12">吃吃冲刺12</string>
+    <string name="title13">吃吃冲刺13</string>
+    <string name="title14">吃吃冲刺14</string>
+    <string name="title15">吃吃冲刺15</string>
+    <string name="title16">吃吃冲刺16</string>
+    <string name="title17">吃吃冲刺17</string>
+    <string name="title18">吃吃冲刺18</string>
+    <string name="title19">吃吃冲刺19</string>
+    <string name="title20">吃吃冲刺20</string>
+    <string name="title_activity_splash">splashActivity</string>
+
+
+</resources>
